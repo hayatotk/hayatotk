@@ -1,0 +1,71 @@
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:c134af,45:2563eb,100:c134af&text=高崎 隼人&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=負けるが勝ち&descAlignY=58&animation=fadeIn"
+    alt=""
+  />
+
+
+  <p>
+    <a href="https://github.com/kagebyte-inc/?tab=repositories">
+      <img src="https://img.shields.io/badge/Kagebyte-探る-c134af?style=for-the-badge&logo=github&labelColor=111827" alt="" />
+    </a>
+  </p>
+
+</div>
+
+---
+### Discordでのプレゼンス
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1038785603698950225?showDisplayName=true)](https://discord.com/users/1038785603698950225)
+
+---
+
+### 技術スタック
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,qt,kotlin,arch,vscode&perline=8" alt="" />
+
+</div>
+
+
+
+<div align="center">
+
+
+
+  <img
+    width="92%"
+    src="https://streak-stats.demolab.com?user=hayatotk&theme=tokyonight&hide_border=true&border_radius=8"
+    alt="GitHub streak stats"
+  />
+
+</div>
+
+---
+
+### 活動
+
+<div align="center">
+
+  <img
+    width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hayatotk&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Contribution%20Graph"
+    alt="Contribution activity graph"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c134af,95:2563eb,100:0f172a"
+    alt="Footer wave"
+  />
+
+</div>
